@@ -1,0 +1,2 @@
+# fotos-insumos-it
+almacenamiento
